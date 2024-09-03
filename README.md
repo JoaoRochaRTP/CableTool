@@ -4,8 +4,10 @@ Work in progress.
 
 ## > Instalação
 
-## > Lista de Cabos
+## > Como Usar?
 
-## > Lista de Alterações
+### - Lista de Cabos
+
+### - Lista de Alterações
 
 ## > Changelog
