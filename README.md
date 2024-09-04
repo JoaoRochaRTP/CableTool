@@ -17,7 +17,3 @@ O instalador pode ser descarregado [aqui](https://github.com/JoaoRochaRTP/CableT
 ### - Lista de Alterações
 
 ![teste2](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_alteracoes.png)
-
-## > Changelog
-
-v 1.0:
