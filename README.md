@@ -37,3 +37,5 @@ Por fim, clique em "Iniciar" e grave a nova listagem de cabos onde quiser, no se
 O separador Lista de Alterações permite gerar uma listagem de cabos onde apareçem as diferenças 
 
 ![teste2](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_alteracoes.png)
+
+<kbd>Escolher Ficheiro</kbd>
