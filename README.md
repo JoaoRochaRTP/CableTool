@@ -12,9 +12,11 @@ O instalador pode ser descarregado nos ficheiros anexados. Alternativamente pode
 
 ### - Lista de Cabos
 
-[teste](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_cabos.png)
+![teste1](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_cabos.png)
 
 ### - Lista de Alterações
+
+![teste2](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_alteracoes.png)
 
 ## > Changelog
 
