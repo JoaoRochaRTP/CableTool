@@ -19,18 +19,18 @@ O separador Lista de Cabos permite converter uma listagem de cabos do Stardraw e
 
 ![teste1](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_cabos.png)
 
-Para começar, clique em "Escolher Ficheiro" e selecione a listagem de cabos gerada pelo Stardraw.
+Para começar, clique em <kbd>Escolher Ficheiro</kbd> e selecione a listagem de cabos gerada pelo Stardraw.
 O CableTool irá ler alguma informação básica do ficheiro, nomeadamente os tipos de cabos que constam na lista.
 Pouco tempo depois será desbloqueado painel das Opções onde, dependendo do projecto, o utilizador pode definir certas características da lista de cabos que pretende obter:
-. Ordenar por número de cabo - 
-. Ignorar cabos não identificados - 
-. Tipos de cabos em folhas separadas - 
-. Mostrar fabricante e modelo de equipamentos - 
-. Gerar lista de avisos - 
-. Separar cabos/inter-área - 
-. Tipos de cabo - 
+. **Ordenar por número de cabo** - 
+. **Ignorar cabos não identificados** - 
+. **Tipos de cabos em folhas separadas** - 
+. **Mostrar fabricante e modelo de equipamentos** - 
+. **Gerar lista de avisos** - 
+. **Separar cabos/inter-área** - 
+. **Tipos de cabo** - 
 
-Por fim, clique em "Iniciar" e grave a nova listagem de cabos onde quiser, no seu computador.
+Por fim, clique em <kbd>Iniciar</kbd> e grave a nova listagem de cabos onde quiser, no seu computador.
 
 ### - Lista de Alterações
 
@@ -38,4 +38,5 @@ O separador Lista de Alterações permite gerar uma listagem de cabos onde apare
 
 ![teste2](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_alteracoes.png)
 
-<kbd>Escolher Ficheiro</kbd>
+Para usar, clique nos botões <kbd>Escolher Ficheiro</kbd> e selecione a listagem de cabos (gerada pelo separador "Lista de Cabos") antiga e a nova.
+Por fim, clique em <kbd>Iniciar</kbd> e grave a listagem de alterações de cabos onde quiser, no seu computador.
