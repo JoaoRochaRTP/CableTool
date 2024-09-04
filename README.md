@@ -2,11 +2,11 @@
 
 O software de desenho Stardraw Design 
 
-O CableTool é um software desenvolvido em MATLAB, e tem como objectivo assistir o uso da listagem de cabos gerada pelo software de desenho [Stardraw Design](https://www.stardraw.com/sd7) na aplicação projectos técnicos de montagem, manutenção e renovação.
+O CableTool é um software desenvolvido em [MATLAB](https://www.mathworks.com/products/matlab.html), e tem como objectivo assistir no uso da listagem de cabos gerada pelo software de desenho [Stardraw Design](https://www.stardraw.com/sd7) na aplicação projectos técnicos de montagem, manutenção e renovação.
 
 ## > Instalação
 
-To do.
+Este software foi compilado para poder ser instalado ou corrido através de um executável _standalone_, necessitando apenas de um [MATLAB Runtime] (https://www.mathworks.com/help/compiler/matlab-runtime.html)
 
 ## > Como Usar?
 
