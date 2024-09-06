@@ -21,14 +21,7 @@ O separador Lista de Cabos permite converter uma listagem de cabos do Stardraw e
 
 Para começar, clique em <kbd>Escolher Ficheiro</kbd> e selecione a listagem de cabos gerada pelo Stardraw.
 O CableTool irá ler alguma informação básica do ficheiro, nomeadamente os tipos de cabos que constam na lista.
-Pouco tempo depois será desbloqueado painel das Opções onde, dependendo do projecto, o utilizador pode definir certas características da lista de cabos que pretende obter:
-. **Ordenar por número de cabo** - 
-. **Ignorar cabos não identificados** - 
-. **Tipos de cabos em folhas separadas** - 
-. **Mostrar fabricante e modelo de equipamentos** - 
-. **Gerar lista de avisos** - 
-. **Separar cabos/inter-área** - 
-. **Tipos de cabo** - 
+Pouco tempo depois será desbloqueado painel das Opções onde, dependendo do projecto, o utilizador pode definir certas características da lista de cabos que pretende obter.
 
 Por fim, clique em <kbd>Iniciar</kbd> e grave a nova listagem de cabos onde quiser, no seu computador.
 
