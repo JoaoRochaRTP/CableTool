@@ -17,7 +17,7 @@ Tem dois separadores, um por cada uma das suas funcionalidades:
 
 O separador Lista de Cabos permite converter uma listagem de cabos do Stardraw em algo muito mais fácil de ler, tirando a informação desnessária.
 
-![teste1](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_cabos.png)
+![preview 1](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_cabos_img.png)
 
 Para começar, clique em <kbd>Escolher Ficheiro</kbd> e selecione a listagem de cabos gerada pelo Stardraw.
 O CableTool irá ler alguma informação básica do ficheiro, nomeadamente os tipos de cabos que constam na lista.
@@ -36,7 +36,7 @@ Por fim, clique em <kbd>Iniciar</kbd> e grave a nova listagem de cabos onde quis
 
 O separador Lista de Alterações permite gerar uma listagem de cabos onde apareçem as diferenças 
 
-![teste2](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_alteracoes.png)
+![preview 2](https://github.com/JoaoRochaRTP/CableTool/blob/main/lista_alteracoes_img.png)
 
 Para usar, clique nos botões <kbd>Escolher Ficheiro</kbd> e selecione a listagem de cabos (gerada pelo separador "Lista de Cabos") antiga e a nova.
 Por fim, clique em <kbd>Iniciar</kbd> e grave a listagem de alterações de cabos onde quiser, no seu computador.
