@@ -15,7 +15,7 @@ Tem dois separadores, um por cada uma das suas funcionalidades:
 
 ### - Lista de Cabos
 
-O separador Lista de Cabos permite converter uma listagem de cabos do Stardraw em algo muito mais fácil de ler, tirando a informação desnessária.
+O separador Lista de Cabos permite converter uma listagem de cabos do Stardraw em algo muito mais fácil de ler, tirando a informação desnecessária.
 
 ![preview 1](https://github.com/JoaoRochaRTP/CableTool/blob/main/preview_cabos.png)
 
