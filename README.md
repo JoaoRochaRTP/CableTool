@@ -6,7 +6,7 @@ O CableTool é um software desenvolvido em linguagem MATLAB, e tem como objectiv
 
 Este software foi compilado para poder ser instalado ou corrido através de um executável standalone, necessitando apenas de um MATLAB Runtime que o executável descarrega e instala automaticamente.
 
-O instalador pode ser encontrado nas releases, ou ao clicar [aqui](https://github.com/JoaoRochaRTP/CableTool/releases/download/v1.0/CableTool_installer_v1_0_light.exe).
+O instalador pode ser encontrado nas [releases](https://github.com/JoaoRochaRTP/CableTool/releases).
 
 ## > Como Usar?
 
